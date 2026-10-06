@@ -1,0 +1,4 @@
+signaling-server
+signaling-server.exe
+*.log
+.DS_Store
